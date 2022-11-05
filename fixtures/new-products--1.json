@@ -1,0 +1,24 @@
+[
+  {
+    "__type": "CMSApp.Services.ProductListingService+ProductListingItem",
+    "Name": "Crux Quarter Zip Pullover",
+    "Url": "/en-gb/apparel/mens/tops/pullovers/crux-quarter-zip-pullover",
+    "Price": 156,
+    "DiscountPrice": 0,
+    "ImageUrl": "https://a.pxg-assets.com/getmetafile/0892a366-be84-40e3-be91-a61517644a86/Mens-Crux-Quarter-Zip-Pullover-Product-Listing-1",
+    "HoverImageUrl": "https://a.pxg-assets.com/PXG/media/Images/Apparel/Mens/Tops/Coats-Jackets/mens-crux-quarter-zip-pullover-product-listing-2_1.jpg?ext=.jpg",
+    "Colors": [],
+    "InStoreDate": "/Date(1569013222000)/",
+    "ParsonsFavorite": "none",
+    "IsLimitedEdition": false,
+    "IsSeasonalProduct": false,
+    "IsNewProduct": false,
+    "IsComingSoon": false,
+    "ShowHeroesDiscountBanner": false,
+    "IsOutOfStock": false,
+    "ShowSalesItemBanner": false,
+    "DocumentID": 13626,
+    "ShippingMessage": "",
+    "DepartmentName": "Apparel - Men's"
+  }
+]
